@@ -1,6 +1,5 @@
 package home_automation.command.undo;
 
-import home_automation.command.UNDOAbleCommand;
 import home_automation.devices.CeilingFan;
 
 public class UNDOCeilingFanHighCommand implements UNDOAbleCommand {

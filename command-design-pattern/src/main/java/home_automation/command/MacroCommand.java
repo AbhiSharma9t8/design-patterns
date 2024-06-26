@@ -1,6 +1,8 @@
 package home_automation.command;
 
-public class MacroCommand implements UNDOAbleCommand{
+import home_automation.command.undo.UNDOAbleCommand;
+
+public class MacroCommand implements UNDOAbleCommand {
 
     UNDOAbleCommand[] commands;
 

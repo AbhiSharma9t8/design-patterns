@@ -1,7 +1,7 @@
 package home_automation.TestClients;
 
 import home_automation.command.MacroCommand;
-import home_automation.command.UNDOAbleCommand;
+import home_automation.command.undo.UNDOAbleCommand;
 import home_automation.command.undo.UNDOCeilingFanHighCommand;
 import home_automation.command.undo.UNDOCeilingFanOffCommand;
 import home_automation.command.undo.UNDOLightOffCommand;

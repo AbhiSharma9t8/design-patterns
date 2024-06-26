@@ -1,4 +1,4 @@
-package home_automation.command;
+package home_automation.command.undo;
 
 public interface UNDOAbleCommand {
     void execute();

@@ -1,6 +1,6 @@
 package home_automation.remotecontrol;
 
-import home_automation.command.UNDOAbleCommand;
+import home_automation.command.undo.UNDOAbleCommand;
 
 import java.util.Stack;
 
